@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Develop\ToDoMVCtutorial\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-08T12:27:02.6478818Z;True|2022-01-07T17:04:41.3089207+02:00;True|2022-01-07T14:44:12.0426885+02:00;True|2022-01-07T14:43:39.3978999+02:00;True|2022-01-07T14:34:59.6304110+02:00;True|2022-01-07T14:26:20.4777391+02:00;True|2022-01-07T14:03:13.8417735+02:00;True|2022-01-07T12:44:46.2439462+02:00;True|2022-01-07T12:36:37.6785564+02:00;True|2022-01-06T18:38:34.3026367+02:00;</History>
+  </PropertyGroup>
+</Project>
